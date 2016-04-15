@@ -1,7 +1,9 @@
 ﻿using MVCinWPF.Core;
+using MVCinWPF.Core.Tools;
 using MVCinWPF.Fakes.Models;
 using MVCinWPF.User.Models;
 using MVCinWPF.User.Views.Home;
+using System.Windows;
 
 namespace MVCinWPF.User.Controllers
 {
@@ -12,6 +14,7 @@ namespace MVCinWPF.User.Controllers
 
             ClearData();
             Data.Name = model.Name;
+            Data.Wii = new DelegateCommand(WiiCommandExecute);
 
             IndexView view = new IndexView();
             view.DataContext = Data;
@@ -19,5 +22,10 @@ namespace MVCinWPF.User.Controllers
             MainWindow.Instance.CurrentView = view;
 
         }
+
+        public void WiiCommandExecute(object parameters)
+        {
+            MessageBox.Show("Wiiii!");
+        }       
     }
 }

@@ -10,7 +10,11 @@
 
     <Grid>
         <Border Background="#FFDEE0E6">
-            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=Name, StringFormat= Hello {0}!}"></TextBlock>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <TextBlock Text="{Binding Path=Name, StringFormat= Hello {0}!}"></TextBlock>
+                <Button Command="{Binding Wii}">Wii!</Button>
+            </StackPanel>
+
         </Border>
     </Grid>
 </core:View>
