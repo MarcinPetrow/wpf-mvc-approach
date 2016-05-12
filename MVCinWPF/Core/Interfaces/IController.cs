@@ -8,5 +8,7 @@ namespace MVCinWPF.Core.Interfaces
 {
     public interface IController
     {
+        void Initialize();
+        void Cleanup();
     }
 }

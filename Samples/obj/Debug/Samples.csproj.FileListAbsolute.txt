@@ -1,0 +1,16 @@
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples_MarkupCompile.cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Debug\Samples.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Debug\Samples.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Debug\MVCinWPF.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples_MarkupCompile.lref
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.g.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.Properties.Resources.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.csproj.GenerateResource.Cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Samples.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Views\Timer\TimerView.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Views\Timer\TimerView.baml
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Startup.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Debug\MVCinWPF.dll
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Debug\Startup.baml

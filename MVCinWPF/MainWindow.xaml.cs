@@ -2,6 +2,7 @@
 using MVCinWPF.User.Controllers;
 using System.ComponentModel;
 using System.Windows;
+using System.Windows.Navigation;
 
 namespace MVCinWPF
 {
@@ -9,7 +10,7 @@ namespace MVCinWPF
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     /// 
-    public partial class MainWindow : Window, INotifyPropertyChanged
+    public partial class MainWindow : INotifyPropertyChanged
     {
         #region Singleton
         private static volatile MainWindow instance;
@@ -34,44 +35,26 @@ namespace MVCinWPF
         }
         #endregion
         
-        private View currentView;
-        public View CurrentView
-        {
-            get
-            {
-                return currentView;
-            }
-            set
-            {
-                if (currentView != value)
-                {
-                    currentView = value;
-                    OnPropertyChanged("CurrentView");
-                }
-            }
-        }
-
         private MainWindow()
         {
             InitializeComponent();
-            DataContext = this;
         }
 
-        public void Run() {
+        public void Start() {
             HomeController controller = new HomeController();
             controller.Index();
+        }
+
+        public void NavigateTo(View view)
+        {
+            Navigate(view);
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
 
         public void OnPropertyChanged(string propertyName)
         {
-            var localProperyChanged = PropertyChanged;
-            if (localProperyChanged != null)
-            {
-                localProperyChanged(this, new PropertyChangedEventArgs(propertyName));
-            }
-
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }

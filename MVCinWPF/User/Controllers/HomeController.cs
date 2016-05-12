@@ -1,4 +1,5 @@
 ﻿using MVCinWPF.Core;
+using MVCinWPF.Core.Navigation;
 using MVCinWPF.Core.Tools;
 using MVCinWPF.Fakes.Models;
 using MVCinWPF.User.Models;
@@ -7,7 +8,7 @@ using System.Windows;
 
 namespace MVCinWPF.User.Controllers
 {
-    public class HomeController: Controller
+    public class HomeController:Controller
     {
         public void Index() {
             UserModel model = UserModelFactory.CreateSimpleUser();
@@ -17,9 +18,7 @@ namespace MVCinWPF.User.Controllers
             Data.Wii = new DelegateCommand(WiiCommandExecute);
 
             IndexView view = new IndexView();
-            view.DataContext = Data;
-
-            MainWindow.Instance.CurrentView = view;
+            Navigator.Navigate(this, null, view);
 
         }
 

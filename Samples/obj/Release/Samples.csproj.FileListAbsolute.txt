@@ -1,0 +1,16 @@
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Release\Samples.exe.config
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Release\Samples.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Release\Samples.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Release\MVCinWPF.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\bin\Release\MVCinWPF.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Views\Timer\TimerView.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\App.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples_MarkupCompile.cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples_MarkupCompile.lref
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Views\Timer\TimerView.baml
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.g.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.Properties.Resources.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.csproj.GenerateResource.Cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\Samples\obj\Release\Samples.pdb

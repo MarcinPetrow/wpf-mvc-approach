@@ -7,7 +7,7 @@ namespace MVCinWPF.Core
     {
         private dynamic data;
 
-        protected dynamic Data
+        public dynamic Data
         {
             get
             {
@@ -22,6 +22,11 @@ namespace MVCinWPF.Core
         public void ClearData()
         {
             Data = new DynamicContext();
+        }
+
+        public virtual void Initialize() {
+        }
+        public virtual void Cleanup() {
         }
     }
 }

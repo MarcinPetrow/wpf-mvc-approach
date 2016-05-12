@@ -3,7 +3,7 @@ using System.Windows.Controls;
 
 namespace MVCinWPF.Core
 {
-    public class View : UserControl, IView
+    public class View : Page, IView
     {        
     }
 }

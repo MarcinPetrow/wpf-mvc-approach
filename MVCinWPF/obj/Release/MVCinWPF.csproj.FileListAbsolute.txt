@@ -1,0 +1,15 @@
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\bin\Release\MVCinWPF.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\bin\Release\MVCinWPF.pdb
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MainWindow.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\User\Views\Home\IndexView.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\Startup.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF_MarkupCompile.cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF_MarkupCompile.lref
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MainWindow.baml
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\User\Views\Home\IndexView.baml
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF.g.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF.Properties.Resources.resources
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF.csproj.GenerateResource.Cache
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF.exe
+C:\Users\Marcin\Source\Repos\wpf-mvc-approach\MVCinWPF\obj\Release\MVCinWPF.pdb
